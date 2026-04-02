@@ -19,16 +19,16 @@ Ibaratnya, kalau web itu bangunan, HTML itu rangkanya.
 
 ## ⚡ Kenapa Harus Belajar HTML?
 
-- Semua website pakai HTML  
-- Mudah dipelajari untuk pemula  
+- Semua website Menggunakan HTML  
+- sangat mudah dipelajari bagi pemula  
 - Jadi dasar sebelum lanjut ke CSS & JavaScript  
-- Wajib kalau mau jadi web developer  
+- Wajib jika ingin menjadi web developer  
 
 ---
 
 ## 🎯 Apa yang Bisa Dibuat?
 
-Dengan HTML, lo bisa bikin:
+Dengan HTML, kita bisa membuat:
 
 - Halaman profil sederhana  
 - Landing page  
