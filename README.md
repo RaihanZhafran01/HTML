@@ -13,7 +13,7 @@
 # 📘 Belajar HTML
 
 HTML adalah fondasi dari semua website.  
-Ibaratnya, kalau web itu bangunan, HTML itu rangkanya.
+Ibaratnya, jika web adalah bangunan, HTML itu adalah rangkanya.
 
 ---
 
@@ -21,7 +21,7 @@ Ibaratnya, kalau web itu bangunan, HTML itu rangkanya.
 
 - Semua website Menggunakan HTML  
 - sangat mudah dipelajari bagi pemula  
-- Jadi dasar sebelum lanjut ke CSS & JavaScript  
+- Menjadi dasar sebelum lanjut ke CSS & JavaScript  
 - Wajib jika ingin menjadi web developer  
 
 ---
